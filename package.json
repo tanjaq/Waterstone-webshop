@@ -1,7 +1,7 @@
 {
   "name": "seleniumjesttests",
   "version": "1.0.0",
-  "description": "Testing Bookdepository webshop with Selenium and Jest tests.",
+  "description": "Testing Waterstones webshop with Selenium and Jest tests.",
   "main": "index.js",
   "scripts": {
     "test": "npx jest"
